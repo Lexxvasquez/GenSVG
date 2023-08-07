@@ -1,9 +1,7 @@
 # GenSVG
 
 ## Decription
-This application focused on using Node.js command-line that takes user input to generate a 
-logo and saves it as an SVG file. The user is able to selcet a color, shape, and text for the
-logo.
+This application focused on using Node.js command-line that takes user input to generate a logo and saves it as an SVG file. The user is able to selcet a color, shape, and text for the logo.
 
 ## Installation
 Installed Node.js application from previous assignment and currently using it for this project.
@@ -30,5 +28,13 @@ WHEN I open the `logo.svg` file in a browser<br>
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Usage
+![app](images/circle.png)
 
+![app](images/square.png)
+
+![app](images/triangle.png)
 ## Links
+
+[Github](https://github.com/Lexxvasquez/GenSVG)
+
+[Recorded Link](https://drive.google.com/file/d/1eUddgBa2LInSTsgURTiSS46J4m8ZILKt/view)
